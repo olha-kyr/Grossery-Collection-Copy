@@ -1,14 +1,14 @@
 {
 	"info": {
 		"_postman_id": "db713cb1-730f-4a1b-9d3e-7380566aa4f4",
-		"name": "Grocery_Collection Copy",
+		"name": "Grocery_Collection Copy chanched in GITHub",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
 		"_exporter_id": "17641687",
 		"_collection_link": "https://dark-meteor-702234.postman.co/workspace/Udemy_Postman_Advance_Grocery-S~932b1b27-24e4-4484-aa4a-5047fced59d5/collection/17641687-db713cb1-730f-4a1b-9d3e-7380566aa4f4?action=share&source=collection_link&creator=17641687"
 	},
 	"item": [
 		{
-			"name": "Register an API client",
+			"name": "Register an API client_changed in GitHub",
 			"request": {
 				"method": "POST",
 				"header": [],
